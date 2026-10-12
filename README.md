@@ -3,7 +3,7 @@
 Set of recipes as given by my grandma.
 
 * pizza
-- [base] (./pizzas/base.md)
+  - [base](./pizzas/base.md)
 
 * Sauces (TODO)
 
